@@ -1,0 +1,37 @@
+Data14
+------
+
+This data set is from [Tohm91]. The software system is a 
+control application system. The test/debug data consists
+of both modular test and combinational test.
+
+-------------------------------------------------------
+   C(i)   T(i)                    C(i)      T(i)     
+        Test/debug time                 Test/debug time
+        in days                         in days
+-------------------------------------------------------
+
+    2     1                      176       24 
+    2     2                      177       25
+   32     3                      184       26
+   45     4                      184       27
+   58     5                      206       28
+   61     6                      208       29
+   78     7                      213       30
+   80     8                      225       31
+   82     9                      239       32
+  102    10                      244       33
+  115    11                      246       34
+  118    12                      246       35
+  121    13                      253       36
+  125    14                      256       37
+  129    15                      256       38
+  129    16                      256       39
+  129    17                      256       40
+  129    18                      256       41
+  129    19                      261       42
+  129    20                      263       43
+  129    21                      266       44
+  159    22                      266       45
+  174    23                      266       46
+

@@ -1,0 +1,32 @@
+Data4
+-----
+
+This data set is from a study in [Ohba84]. The system is a PL/I 
+database application software consisting of approximately 1,317,000
+lines of code.
+
+---------------------------
+  C(i)     T(i)    
+       (CPU time in Hours)
+---------------------------
+
+   15      2.45   
+   44      4.90   
+   66      6.86   
+  103      7.84   
+  105      9.52   
+  110     12.89  
+  146     17.10  
+  175     20.47  
+  179     21.43  
+  206     23.35  
+  223     26.23  
+  255     27.67  
+  276     30.93  
+  298     34.77  
+  304     38.61  
+  311     40.91  
+  320     42.67  
+  325     44.66  
+  328     47.65  
+

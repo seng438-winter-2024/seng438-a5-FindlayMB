@@ -1,0 +1,25 @@
+Data5
+-----
+
+This data set is from a study in [Ohba84]. The system is consists 
+of three software modules of a hardware control program. The size 
+of the combined system is approximately 35,000 lines of code.
+The test data are reported for individual modules as well as 
+the combined system.
+
+----------------------------------
+ C(i)     T(i) Time of Observation
+               in Months
+----------------------------------
+
+  10         1.0
+  74         1.5
+  92         2.0
+ 135         3.0
+ 179         4.5
+ 192         6.0
+ 226         8.0
+ 254        11.0
+ 269        12.0
+ 279        13.0
+

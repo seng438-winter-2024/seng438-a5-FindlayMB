@@ -1,0 +1,42 @@
+Data2
+-----
+
+This data set is the widely used data set in [Musa87]. The system 
+is used for a real-time command and control application and it has 
+about 21,700 assembly instructions. The execution time is reported 
+in seconds.
+
+---------------------------
+    T(i)             C(i)
+  CPU time in Secs
+---------------------------
+
+     342              5
+     571             10
+     968             15
+    1986             20
+    3098             25
+    5049             30
+    5324             35
+    6380             40
+    7644             45
+   10089             50
+   10982             55
+   12559             60
+   13486             65
+   15806             70
+   17458             75
+   19556             80
+   24127             85
+   24493             90
+   36799             95
+   40580            100
+   42296            105
+   49171            110
+   52875            115
+   56463            120
+   62651            125
+   71043            130
+   82702            135
+   88682            136
+

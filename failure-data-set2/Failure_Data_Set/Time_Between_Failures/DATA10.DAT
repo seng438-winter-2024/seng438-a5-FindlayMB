@@ -1,0 +1,30 @@
+Data10
+------
+
+This data set is from [Tohm89]. The software system is a 
+and real-time control system consisting of about 90 
+modules. The average size of modules is about 1 KLOC of PL/1, 
+Fortran, and Assembly languages.
+ 
+---------------------------
+   C(i)             T(i)  
+                    Days
+---------------------------
+
+    6                 1
+   16                 2
+   32                 3
+   32                 4
+   50                 5
+   63                 6
+   75                 7
+  101                 8
+  124                 9
+  146                10
+  155                11
+  174                12
+  182                13
+  190                14
+  196                15
+  198                16
+
