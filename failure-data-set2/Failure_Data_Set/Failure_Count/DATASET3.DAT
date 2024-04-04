@@ -1,0 +1,100 @@
+DataSet 3
+---------
+
+Brazilian Electronic Switching System, TROPICO R-1500 for 
+1500 subscribers. Software size is about 300 kb written 
+in Assembly Language [Kano91, Mart90]. Entries 1 through 30
+were obtained during system VALIDATION phase,  entries
+31 through 42 during FIELD TRIALS, and entries 43 through 81
+during system OPERATION.
+
+This data set is the same as the SS1 date set in Chap. 10.
+
+-------------------------------
+Column1: Time
+Column2: Freq. of Failures
+Column3: Cum. Number of Failure
+-------------------------------
+
+1	7	7
+2	1	8
+3	28	36
+4	9	45
+5	15	60
+6	14	74
+7	8	82
+8	16	98
+9	8	106
+10	9	115
+11	5	120
+12	14	134
+13	5	139
+14	3	142
+15	3	145
+16	8	153
+17	14	167
+18	7	174
+19	9	183
+20	13	196
+21	4	200
+22	14	214
+23	9	223
+24	23	246
+25	11	257
+26	20	277
+27	6	283
+28	3	286
+29	6	292
+30	5	297
+31	4	301
+32	1	302
+33	8	310
+34	7	317
+35	2	319
+36	4	323
+37	1	324
+38	14	338
+39	4	342
+40	3	345
+41	5	350
+42	2	352
+43	4	356
+44	11	367
+45	6	373
+46	0	373
+47	5	378
+48	3	381
+49	2	383
+50	1	384
+51	0	384
+52	3	387
+53	0	387
+54	0	387
+55	1	388
+56	5	393
+57	5	398
+58	2	400
+59	7	407
+60	6	413
+61	1	414
+62	5	419
+63	1	420
+64	3	423
+65	6	429
+66	11	440
+67	3	443
+68	5	448
+69	6	454
+70	2	456
+71	0	456
+72	0	456
+73	1	457
+74	1	458
+75	1	459
+76	0	459
+77	0	459
+78	1	460
+79	0	460
+80	0	460
+81	1	461
+

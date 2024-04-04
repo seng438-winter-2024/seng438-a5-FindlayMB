@@ -1,0 +1,26 @@
+DataSet 5
+---------
+
+Hitachi Software tracks the number of system failures detected
+at customer sites. Filed Failure Ratio (FFR) is the number 
+of system failures per month per thousand systems [Onom93, Onom95].
+
+------------
+FFR	Year
+------------
+
+1050	1981
+400	1982
+450	1983
+200	1984
+100	1985
+100	1986
+75	1987
+55	1988
+45	1989
+35	1990
+30	1991
+27	1992
+21	1993
+19	1994
+

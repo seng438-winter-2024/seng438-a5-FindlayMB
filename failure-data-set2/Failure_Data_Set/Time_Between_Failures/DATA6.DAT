@@ -1,0 +1,26 @@
+Data6
+-----
+
+This data set is from [Shoo72]. The software system is an 
+application program consisting of approximately 240,000 lines of
+code. The time is reported in terms of months of debugging. 
+
+------------------------------------
+   C(i)        T(i)  
+          (Debugging time in months)
+------------------------------------
+
+   331          1.0
+   728          2.0
+   997          3.0
+  1293          4.0
+  1607          5.0
+  1790          6.0
+  1948          7.0
+  2316          8.0
+  2653          9.0
+  2902         10.0
+  3068         11.0
+  3176         12.0
+  3207         13.0
+
